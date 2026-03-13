@@ -63,6 +63,7 @@ This indicates that the existing purchase funnel performs consistently and that 
 **3. Desktop Drives the Largest Purchase Volume**
 
 Desktop users generate the largest number of purchases (2,716 transactions), followed by mobile (1,974) and tablet (103). 
+
 ![image](Assets/volume_device.png)
 
 However, desktop sessions also show longer and more variable purchase durations, suggesting that desktop users may spend more time researching or comparing products before purchasing. Optimizing the desktop checkout experience could therefore have the greatest impact on improving overall conversion speed.
