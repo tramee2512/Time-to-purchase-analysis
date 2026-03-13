@@ -20,6 +20,8 @@ Analysis of 4,793 same-day purchases between November 2020 and January 2021 show
 While typical purchase behavior is fast and consistent, conversion speed varies across devices, acquisition channels, and times of day. Desktop users generate the largest purchase volume but show longer conversion times, CPC traffic converts slower than organic traffic, and late night visitors tend to take significantly longer to complete purchases.
 
 These findings highlight opportunities to optimize checkout flow, marketing targeting, and engagement strategies to improve conversion efficiency.
+
+![image](Assets/dashboard.png)
 ________________________________________
 ## Key Metrics 
 The analysis focuses on several metrics to evaluate how quickly users convert after arriving on the website and to understand patterns in purchase behaviour.
@@ -48,25 +50,36 @@ However, the average purchase duration is significantly higher due to extreme ou
 
 This suggests that when users decide to purchase, they tend to do so quickly, and delays in the funnel may indicate friction points or exploratory browsing.
 
+![image](Assets/time.png)
+
 **2. Purchase Speed Is Consistent Over Time**
 
 The median purchase duration remains relatively stable across the three-month period analyzed. While average purchase time fluctuates due to extreme outliers, the typical conversion journey does not show major behavioral changes.
+
+![image](Assets/trend.png)
 
 This indicates that the existing purchase funnel performs consistently and that improvements should focus on reducing friction rather than addressing structural changes in user behavior.
 
 **3. Desktop Drives the Largest Purchase Volume**
 
-Desktop users generate the largest number of purchases (2,716 transactions), followed by mobile (1,974) and tablet (103).  However, desktop sessions also show longer and more variable purchase durations, suggesting that desktop users may spend more time researching or comparing products before purchasing.
- Optimizing the desktop checkout experience could therefore have the greatest impact on improving overall conversion speed.
+Desktop users generate the largest number of purchases (2,716 transactions), followed by mobile (1,974) and tablet (103). 
+![image](Assets/volume_device.png)
+
+However, desktop sessions also show longer and more variable purchase durations, suggesting that desktop users may spend more time researching or comparing products before purchasing. Optimizing the desktop checkout experience could therefore have the greatest impact on improving overall conversion speed.
+
+![image](Assets/duration_device.png)
 
 **4. Traffic Source Influences Conversion Behavior**
 
 Acquisition channels show noticeable differences in purchase speed. Organic traffic produces the highest purchase volume with relatively fast conversion times, indicating strong user intent. In contrast, CPC traffic converts more slowly, suggesting that paid campaigns may attract lower-intent users or direct users to less optimized landing pages.
 
+![image](Assets/medium.png)
 
 **5. Time of Day Affects Purchase Speed**
 
 User purchase behavior varies depending on the time of day. Visitors arriving during late-night hours take significantly longer to complete purchases, suggesting lower purchase intent during these periods. Daytime visitors tend to convert faster, indicating stronger purchasing intent and more focused browsing behavior.
+
+![image](Assets/time_of_day.png)
 
 ## Recommendations
 **1. Improve Desktop Checkout Experience**
